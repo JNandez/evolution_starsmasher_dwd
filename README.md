@@ -1,6 +1,6 @@
 ## DWD evolution analysis
 
-This FORTRAN code finds the ejecta/circumstellar/binary masses plus their energies in 10^46 ergs. The code was developed for double white dwarf formation, and it assumes
+This FORTRAN code finds the ejecta/circumstellar/binary masses plus their energies in 10^46^ ergs. The code was developed for double white dwarf formation, and it assumes
 
 * Similar masses in their code, i.e. the RG + Companion has similar He cores
 * It also assumes that the He core are modelled with a point mass
